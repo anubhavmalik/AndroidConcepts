@@ -1,7 +1,6 @@
-package Adapter;
+package com.example.kushalgupta.androidconcepts.Adapter;
 
 import android.content.Context;
-import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,7 +11,7 @@ import com.example.kushalgupta.androidconcepts.R;
 
 import java.util.ArrayList;
 
-import Model.Contents;
+import com.example.kushalgupta.androidconcepts.Model.Contents;
 
 /**
  * Created by kushalgupta on 23/12/17.

@@ -4,10 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.StaggeredGridLayoutManager;
 
-import Adapter.ContentAdapter;
-import Model.Contents;
+import com.example.kushalgupta.androidconcepts.Adapter.ContentAdapter;
+import com.example.kushalgupta.androidconcepts.Model.Contents;
 
 public class MainActivity extends AppCompatActivity {
 
